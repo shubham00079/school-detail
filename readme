@@ -3,3 +3,7 @@ based Django Framework for Backend.
 Page made using advanced class based views
 CRUD Views->  Create,Retrieve,Update,Delete
 Manipulating databse by creating,retrieving,updating and deleting models .
+Home Screen shows list of schools nd clicking on particular school gives us the detail of that school and students enrolled.
+Can update the values by clicking on update button.
+Deleting an entry is also possible.
+
